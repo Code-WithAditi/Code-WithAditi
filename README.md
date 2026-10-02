@@ -1,17 +1,53 @@
-<p data-importer="text" align="left">Hello World!!</p>
+# 👋 Hello, I'm Aditi Sharma!
 
-###
+### 💻 BCA Student | Aspiring Software Developer
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-</div>
+🌱 Currently learning **Python, MySQL & Web Development**  
+💡 Interested in **Programming, Databases & Problem Solving**  
+🚀 Always learning. Always building.
 
-###
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- 🐍 Python
+- 🗄️ MySQL
+- 🌐 HTML & CSS
+- ⚡ JavaScript
+- 🔗 Python + MySQL
+- 🧩 OOP & Problem Solving
+
+---
+
+## 🚀 Projects
+
+### 🧑‍🎓 Student Management System
+**Python + MySQL**
+
+A simple system to add, view, update and delete student records.
+
+### ⚡ Electricity Bill Calculator
+**Python**
+
+A program that calculates electricity bills according to unit slabs.
+
+---
+
+## 🎯 2026 Goals
+
+```text
+Learn → Build → Practice → Improve → Repeat 🔁
