@@ -1,54 +1,73 @@
-<!-- ========================================================= -->
-<!--        🚀 ADITI SHARMA — ANIMATED GITHUB PROFILE 🚀       -->
-<!-- ========================================================= -->
+<!-- ===================== ANIMATED HEADER ===================== -->
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Aditi%20Sharma&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-<!-- 🌊 Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05001A,25:001F3F,50:0047AB,75:00C6FF,100:7B2FFF&height=260&section=header&text=ADITI%20SHARMA&fontSize=58&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=CYBER%20SECURITY%20%7C%20AI%20%7C%20PYTHON%20%7C%20BCA%20GRADUATE&descAlignY=58&descSize=18"/>
+<!-- ===================== TYPING ANIMATION ===================== -->
 
-<!-- ⌨️ Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=130&lines=%3E_%20Initializing+Cyber+Security+Profile...;%3E_%20Access+Granted+%E2%9C%94%EF%B8%8F;%F0%9F%94%90+Cyber+Security+Enthusiast;%F0%9F%A4%96+AI+%26+Machine+Learning+Explorer;%F0%9F%90%8D+Python+Developer;%F0%9F%9A%80+Building+the+Future..." />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=BCA+Graduate+%7C+Cybersecurity+%7C+AI+Learner;Exploring+the+World+of+Cyber+%26+Artificial+Intelligence;Python+%7C+SQL+%7C+Web+Development;Learning+%E2%80%A2+Building+%E2%80%A2+Securing+%E2%80%A2+Innovating"/>
+</p>
 
-<br>
-
-<!-- 👁️ Profile Counters -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge&color=7B2FFF"/>
-
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=TOTAL%20STARS&style=for-the-badge&color=FFD700"/>
-
-</div>
+<h3 align="center">
+  🔐 Cybersecurity × 🤖 Artificial Intelligence × 💻 Technology
+</h3>
 
 ---
 
-<div align="center">
+## 👋 Hi, I'm Aditi!
 
-# 🖥️ `> whoami`
+I'm a **BCA graduate** with a growing interest in **Cybersecurity and Artificial
+Intelligence**.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=1800&pause=500&color=00F7FF&center=true&vCenter=true&width=850&lines=%5B%2B%5D+BCA+Graduate+%F0%9F%8E%93;%5B%2B%5D+Cyber+Security+Enthusiast+%F0%9F%94%90;%5B%2B%5D+Artificial+Intelligence+Learner+%F0%9F%A4%96;%5B%2B%5D+Python+Developer+%F0%9F%90%8D;%5B%2B%5D+Future+Cyber+Security+Professional+%F0%9F%9A%80" />
+I enjoy learning how technology works, how systems can be protected, and how
+AI can be used to build smarter solutions.
 
-</div>
+🌱 Currently learning **Cybersecurity + AI**  
+🐍 Practicing **Python**  
+🗄️ Working with **SQL & MySQL**  
+🌐 Exploring **Web Technologies**  
+🛡️ Exploring **Cybersecurity Concepts**  
+🤖 Exploring **Artificial Intelligence & Machine Learning**
 
 ---
 
-## 🧬 About Me
+## 🧠 What I'm Learning
 
-```python
-┌─────────────────────────────────────────────────────┐
-│                  CYBER PROFILE                      │
-├─────────────────────────────────────────────────────┤
-│                                                     │
-│  Name        : Aditi Sharma                        │
-│  Education   : BCA Graduate 🎓                     │
-│  Field       : Cyber Security 🔐                   │
-│  Exploring   : Artificial Intelligence 🤖          │
-│  Language    : Python 🐍                           │
-│  Database    : MySQL 🗄️                           │
-│  Interest    : Ethical Hacking 🛡️                 │
-│  Goal        : AI + Cyber Security 🚀              │
-│                                                     │
-│  Status      : ████████████████░░░░  Learning...  │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+<p align="center">
+
+<img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,github,vscode&perline=8"/>
+
+</p>
+
+---
+
+## 🔐 Cybersecurity Journey
+
+```text
+🌐 Networking
+      ↓
+🔐 Cybersecurity Fundamentals
+      ↓
+🛡️ Security Concepts
+      ↓
+🔎 Threats & Vulnerabilities
+      ↓
+🧪 Security Tools & Practice
+      ↓
+🚀 Continuous Learning
